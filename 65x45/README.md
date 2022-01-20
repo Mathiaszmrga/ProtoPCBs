@@ -1,6 +1,5 @@
 ## 65x45mm.
 
-
 Attributes| Description/notes | 
 --------- | ----------------- | -------
 3mm holes| Plated 3mm holes for M3 fasteners.| 
