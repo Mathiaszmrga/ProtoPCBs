@@ -3,6 +3,8 @@
  
 ___
 
+65x45mm board with pads for screw terminal or wires and support for different input or output voltages.
+
 | Location | Board | 3D view |
 |:--|:--|:--|
 | [65x45](https://github.com/Mathiaszmrga/ProtoPCBs/tree/main/65x45)| O1 |  ![64x45 O1](65x45/O1/Photos/65X45_O1_3D.PNG)|
