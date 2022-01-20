@@ -1,5 +1,4 @@
-**65x45mm.**
-___
+## 65x45mm.
 
 * [O1:](https://github.com/Mathiaszmrga/ProtoPCBs/tree/main/65x45/O1)
   * [PCB.](https://github.com/Mathiaszmrga/ProtoPCBs/tree/main/65x45/O1/PCB)
