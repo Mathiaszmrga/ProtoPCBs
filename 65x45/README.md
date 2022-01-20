@@ -13,4 +13,4 @@
 Board| Description/notes | Preview
 --------- | ----------------- | -------
 O1| 45x65mm proto-PCB with each set of holes independent | ![64x46 O1](O1/Photos/65X45_O1.PNG)
-O2| 45x65mm proto-PCB with each set of holes independent | ![64x46 O1](O1/Photos/65X45_O1.PNG)
+O2| 45x65mm proto-PCB with each set of holes independent | ![64x46 O1](O2/Photos/65X45_O1.PNG)
