@@ -3,7 +3,7 @@
  
 ___
 
-65x45mm board with pads for screw terminal or wires and support for different input or output voltages.
+65x45mm board with pads for screw terminal or wires, support for different input or output voltages and 3mm mounting holes.
 
 | Location | Board | 3D view |
 |:--|:--|:--|
