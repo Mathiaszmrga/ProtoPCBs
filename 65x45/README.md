@@ -18,5 +18,5 @@ O2| 45x65mm proto-PCB with each set of holes joined together similar to a standa
 
 | Board | 3D view |
 |--|--|
-| O1 |  ![64x46 O1](O1/Photos/[5X45_O1_3D.PNG)|
-| O2 |  ![64x46 O2](O2/Photos/[5X45_O2_3D.PNG)|
+| O1 |  ![64x46 O1](O1/Photos/65X45_O1_3D.PNG)|
+| O2 |  ![64x46 O2](O2/Photos/65X45_O2_3D.PNG)|
