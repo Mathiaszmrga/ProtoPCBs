@@ -1,6 +1,8 @@
 # ProtoPCBs
- A collection of breadboard pcbs for prototyping circuits
+ A collection of PCBs for prototyping circuits.
+ 
 ___
+
 | Location | Board | 3D view |
 |:--|:--|:--|
 | 65x45| O1 |  ![64x46 O1](65x45/O1/Photos/65X45_O1_3D.PNG)|
