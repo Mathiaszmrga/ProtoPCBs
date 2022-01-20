@@ -1,6 +1,5 @@
 ## 65x45mm.
 
-
 |	Attributes	|	Description/notes	|
 |--|--|
 |	3mm holes|	3mm holes	|
@@ -12,5 +11,5 @@
 
 Board| Description/notes | Preview
 --------- | ----------------- | -------
-O1| 45x65mm proto-PCB with each set of holes independent | ![64x46 O1](O1/Photos/65X45_O1.PNG)
-O2| 45x65mm proto-PCB with each set of holes independent | ![64x46 O2](O2/Photos/65X45_O2.PNG)
+O1| 45x65mm proto-PCB with each set of holes independent | ![64x46 O1](O1/Photos/[65X45_O1.PNG)
+O2| 45x65mm proto-PCB with each set of holes joined together similar to a standard breadboard| ![64x46 O2](O2/Photos/[65X45_O2.PNG)
